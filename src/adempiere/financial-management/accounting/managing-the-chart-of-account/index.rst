@@ -13,3 +13,4 @@ Esta documentación está dirigida a los clientes de `Managity. <http://managity
     chart-of-accounts-overview
     accounting-combination
     accounting-category
+    charges
