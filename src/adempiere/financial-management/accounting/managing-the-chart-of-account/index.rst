@@ -11,3 +11,4 @@ Esta documentación está dirigida a los clientes de `Managity. <http://managity
     modifying-the-chart-of-account
     importing-the-chart-of-account
     chart-of-accounts-overview
+    accounting-combination
