@@ -12,3 +12,4 @@ Esta documentación está dirigida a los clientes de `Managity. <http://managity
     importing-the-chart-of-account
     chart-of-accounts-overview
     accounting-combination
+    accounting-category
