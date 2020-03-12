@@ -2,11 +2,11 @@
 
 .. _document/cashpoint-bank-reports:
 
-Reportes relativos a Caja/Bancos
-================================
+**Reportes relativos a Caja/Bancos**
+====================================
 
-Estado de Cuenta Bancario
--------------------------
+**Estado de Cuenta Bancario**
+-----------------------------
 
 Reporte de transacciones de “Cuentas Bancarias” sin conciliar.
 
@@ -20,8 +20,8 @@ El reporte se puede filtrar por:
 
 Este reporte es exportable a Excel.
 
-Reporte de Pagos sin Conciliar
-------------------------------
+**Reporte de Pagos sin Conciliar**
+----------------------------------
 
 En este reporte se observan todos los pagos pendientes de conciliarse, pudiendo ver la cuenta bancaria, fecha contable, socio de negocio, moneda, importe, entre otros campos más.
 
@@ -33,8 +33,8 @@ El reporte se puede filtrar por:
 
 Este reporte es exportable a Excel.
 
-Reporte de Conciliación Bancaria
---------------------------------
+**Reporte de Conciliación Bancaria**
+------------------------------------
 
 |Reporte de Conciliación Bancaria|
 
